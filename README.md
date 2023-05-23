@@ -1,6 +1,12 @@
-# Trilha Digital | Web Back-End [10h 53 min]
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/Trilha-Digital-Web-Back-End/blob/main/LICENSE)
 
-## Git e Versionamento
+<h1 align="center">Trilha Digital | Web Back-End</h1>
+
+<p align="center"><img width="700px" src="https://github.com/lucarauj/Trilha-Digital-Web-Back-End/blob/main/Trilha%20Digital%20Web%20Back%20End%20Completed.png" /></p>
+
+<br>
+
+## 🗜 Git e Versionamento
 
 ### Documentação:
 
@@ -74,7 +80,9 @@
 
 - git merge "outra branch"
 
-## Algorítimos
+<br>
+
+## ⚙ Algorítimos
 
 ### Tipos de dados:
 
@@ -99,7 +107,9 @@
 
 - Subprogramas ou blocos de código que realizam uma tarefa específica.
 
-## Redes e Sistemas
+<br>
+
+## 💻 Redes e Sistemas
 
 ### Redes:
 
@@ -171,7 +181,9 @@
 - route print: exibir a tabela de roteamento IP atual do computador;
 - netstate: mapear as portas que estão sendo utilizadas no computador;
 
-## Introdução ao Java
+<br>
+
+## ☕ Introdução ao Java
 
 ### JRE:
 
@@ -225,7 +237,9 @@
 - Podem retornar valores (return);
 - Podem não retornar um valor (void);
 
-## Introdução à programação orientada a objetos em Java
+<br>
+
+## 🛠 Introdução à programação orientada a objetos em Java
 
 ### Tipos primitivos:
 
@@ -287,7 +301,9 @@
 
 - Pode ser utilizado para melhorar a leitura de um número: int a = 23_345_789;
 
-## Banco de dados
+<br>
+
+## 🎲 Banco de dados
 
 ### Documentação PostgreSQL 15:
 
@@ -370,3 +386,11 @@ create view matricula_com_sigilo as (
 ```
 create index idx_nome on disciplinas(nome)
 ```
+
+<br>
+
+## 👨‍🎓 Aluno
+
+#### Lucas Araujo
+
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
